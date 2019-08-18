@@ -1,0 +1,204 @@
+{
+    "ss": {
+      "gms": {
+        "-gd": "0",
+        "-w": "1",
+        "-y": "2019",
+        "-t": "R",
+        "g": [
+          {
+            "-eid": "2019090500",
+            "-gsis": "57900",
+            "-d": "Thu",
+            "-t": "8:20",
+            "-q": "P",
+            "-h": "CHI",
+            "-hnn": "bears",
+            "-v": "GB",
+            "-vnn": "packers",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090800",
+            "-gsis": "57901",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "CAR",
+            "-hnn": "panthers",
+            "-v": "LA",
+            "-vnn": "rams",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090801",
+            "-gsis": "57902",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "CLE",
+            "-hnn": "browns",
+            "-v": "TEN",
+            "-vnn": "titans",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090802",
+            "-gsis": "57903",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "JAX",
+            "-hnn": "jaguars",
+            "-v": "KC",
+            "-vnn": "chiefs",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090803",
+            "-gsis": "57904",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "MIA",
+            "-hnn": "dolphins",
+            "-v": "BAL",
+            "-vnn": "ravens",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090804",
+            "-gsis": "57905",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "MIN",
+            "-hnn": "vikings",
+            "-v": "ATL",
+            "-vnn": "falcons",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090805",
+            "-gsis": "57906",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "NYJ",
+            "-hnn": "jets",
+            "-v": "BUF",
+            "-vnn": "bills",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090806",
+            "-gsis": "57907",
+            "-d": "Sun",
+            "-t": "1:00",
+            "-q": "P",
+            "-h": "PHI",
+            "-hnn": "eagles",
+            "-v": "WAS",
+            "-vnn": "redskins",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090807",
+            "-gsis": "57908",
+            "-d": "Sun",
+            "-t": "4:05",
+            "-q": "P",
+            "-h": "LAC",
+            "-hnn": "chargers",
+            "-v": "IND",
+            "-vnn": "colts",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090808",
+            "-gsis": "57909",
+            "-d": "Sun",
+            "-t": "4:05",
+            "-q": "P",
+            "-h": "SEA",
+            "-hnn": "seahawks",
+            "-v": "CIN",
+            "-vnn": "bengals",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090809",
+            "-gsis": "57910",
+            "-d": "Sun",
+            "-t": "4:25",
+            "-q": "P",
+            "-h": "ARI",
+            "-hnn": "cardinals",
+            "-v": "DET",
+            "-vnn": "lions",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090810",
+            "-gsis": "57911",
+            "-d": "Sun",
+            "-t": "4:25",
+            "-q": "P",
+            "-h": "DAL",
+            "-hnn": "cowboys",
+            "-v": "NYG",
+            "-vnn": "giants",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090811",
+            "-gsis": "57912",
+            "-d": "Sun",
+            "-t": "4:25",
+            "-q": "P",
+            "-h": "TB",
+            "-hnn": "buccaneers",
+            "-v": "SF",
+            "-vnn": "49ers",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090812",
+            "-gsis": "57913",
+            "-d": "Sun",
+            "-t": "8:20",
+            "-q": "P",
+            "-h": "NE",
+            "-hnn": "patriots",
+            "-v": "PIT",
+            "-vnn": "steelers",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090900",
+            "-gsis": "57914",
+            "-d": "Mon",
+            "-t": "7:10",
+            "-q": "P",
+            "-h": "NO",
+            "-hnn": "saints",
+            "-v": "HOU",
+            "-vnn": "texans",
+            "-gt": "REG"
+          },
+          {
+            "-eid": "2019090901",
+            "-gsis": "57915",
+            "-d": "Mon",
+            "-t": "10:20",
+            "-q": "P",
+            "-h": "OAK",
+            "-hnn": "raiders",
+            "-v": "DEN",
+            "-vnn": "broncos",
+            "-gt": "REG"
+          }
+        ]
+      }
+    }
+  }

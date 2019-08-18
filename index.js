@@ -9,13 +9,13 @@ app.use(bodyParser.urlencoded({ extended: false }));
 app.use(bodyParser.json());
 
 const { Client } = require("espn-fantasy-football-api/node");
-const myClient = new Client({ leagueId: 698178 });
+const myClient = new Client({ leagueId: 49886824 });
 
 myClient.setCookies({ espnS2: process.env.ESPNS2, SWID: process.env.SWID });
 
 let data;
 
-myClient.getBoxscoreForWeek({ seasonId: 2018, scoringPeriodId: 15, matchupPeriodId: 15 }).then((boxscores) => {
+myClient.getBoxscoreForWeek({ seasonId: 2019, scoringPeriodId: 1, matchupPeriodId: 1 }).then((boxscores) => {
    data = boxscores;
 });
 
